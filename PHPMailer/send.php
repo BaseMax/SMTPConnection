@@ -9,6 +9,7 @@ $mail=new PHPMailer();
 try {
 	$mail->IsSMTP();
 	$mail->CharSet ='UTF-8';
+	// You should change the host and put your mail server.
 	$mail->Host="mail.isti.ir";
 	// $mail->SMTPDebug=1;
 	// $mail->SMTPDebug=2;
