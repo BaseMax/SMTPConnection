@@ -1,6 +1,6 @@
 # SMTP Connection
 
-A script to connect to a SMTP and send email using that.
+A script to connect to a **SMTP** and send email using that.
 
 ## Purpose
 
